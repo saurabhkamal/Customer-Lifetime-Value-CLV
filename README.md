@@ -107,3 +107,22 @@ Furthermore, this project is divided into three parts:
 - Customer Segmentation: The scatter plot might reveal different customer segments based on their purchasing behavior. For example, customers who consistently purchase larger quantities and spend more could be identified as high-value customers.
 - Outlier Analysis: Analyzing the outliers could provide insights into factors that influence exceptional spending behavior. These could include specific product categories, promotions, or customer characteristics, such as customer satisfaction.
 - Correlation: The analysis indicates a correlation between total revenue and the number of orders per customer.
+
+### 7. Revenue contribution by different customer segments (e.g., high-value vs. low-value customers)
+
+![image](https://github.com/user-attachments/assets/bb015b06-eb8d-48bf-ae37-7f431563f0a7)
+
+**Insights:**
+
+- High-Value Customers: The "Very High Value" segment has the highest median total sales, indicating that customers in this segment generally spend more than those in other segments. The presence of outliers further highlights the existence of extremely high-spending customers within this segment.
+- Outlier Analysis: The outliers in the "Very High Value" segment highlight the potential for significant revenue contributions from a small number of high-spending customers.
+
+![image](https://github.com/user-attachments/assets/569f31e2-1a68-44cb-a325-3185398e0fb9)
+
+**Insights:**
+
+- Increasing Average Sales: As customer segments move from "Low Value" to "Very High Value," the average total sales increase significantly.
+- Large Difference: The difference in average sales between the "Very High Value" and "Low Value" segments is substantial, indicating a wide range of spending patterns.
+- High-Value Customers: The "Very High Value" segment has the highest average total sales, confirming their superior spending power.
+- Low-Value Customers: The "Low Value" segment has the lowest average total sales, suggesting a need to focus on increasing their spending.
+- Segmentation Effectiveness: The clear differences in average sales across segments demonstrate the effectiveness of customer segmentation in identifying high-value customers.
