@@ -23,4 +23,4 @@ Furthermore, this project is divided into three parts:
 
 1. Exploratory Data Analysis (EDA)
 2. Methodologies that are used to calculate and predict Customer Lifetime Value (CLV)
-   2.1 
+   - Aggregate model
