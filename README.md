@@ -126,3 +126,16 @@ Furthermore, this project is divided into three parts:
 - High-Value Customers: The "Very High Value" segment has the highest average total sales, confirming their superior spending power.
 - Low-Value Customers: The "Low Value" segment has the lowest average total sales, suggesting a need to focus on increasing their spending.
 - Segmentation Effectiveness: The clear differences in average sales across segments demonstrate the effectiveness of customer segmentation in identifying high-value customers.
+
+### 8. Are there any seasonal patterns in sales or customer activity?
+
+![image](https://github.com/user-attachments/assets/265027db-048d-480b-a68d-3b4c6ab1ccc2)
+
+**Insights:**
+
+- Seasonal Patterns: The heatmap reveals distinct seasonal patterns in sales, with certain months and days of the week consistently showing higher or lower sales volumes.
+- Day of the Week Variations: There are clear differences in sales performance across different days of the week, indicating that certain days are more or less conducive to sales.
+- Peak Months: Identify the months with the highest overall sales volumes, suggesting that these periods might be ideal for promotions or increased marketing efforts.
+- Peak Days: Determine the days of the week with the highest sales, providing insights into when customers are most likely to make purchases.
+- Seasonal Trends: Analyze the seasonal patterns to understand how external factors like holidays, weather, or events might influence sales.
+- Day-to-Day Fluctuations: Examine the variations in sales across different days of the week to identify potential trends or anomalies.
