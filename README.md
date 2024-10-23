@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6593cf33-a3ee-4974-95ff-122506b70e3e)# Customer Lifetime Value (CLV) 
+# Customer Lifetime Value (CLV) 
 
 ## 1. Introduction:
 The business world has seen a major shift, with companies placing an increasing emphasis on their customers. In today’s competitive market, a customer-focused strategy has become the norm, driven by the abundance of choices available to consumers when choosing products or services.
