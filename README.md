@@ -24,3 +24,30 @@ Furthermore, this project is divided into three parts:
 1. Exploratory Data Analysis (EDA)
 2. Methodologies that are used to calculate and predict Customer Lifetime Value (CLV)
    - Aggregate model
+   - Cohort model
+   - BG/NBD Model (Beta Geometric/Negative Binomial Distribution)
+   - Gamma-Gamma Model for predicting CLV.
+3. Machine Learning Regression models for prediction
+   - Linear Regression
+   - Lasso Regression
+   - Ridge Regression
+   - K-Neighbors Regressor
+   - Decision Tree Regressor
+   - Random Forest Regressor
+   - XGBRegressor
+   - CatBoosting Regressor
+   - AdaBoost Regressor
+  
+## 3. Key Insights:
+
+### 1. Top 10 most purchased products based on 'Description'
+
+![image](https://github.com/user-attachments/assets/c0f7b039-42d1-4400-a8f8-1033a5b4f53a)
+
+**Specific Insights:**
+
+- Home Decor: The top three products all have a home decor theme, suggesting a strong demand for decorative items.
+- Party Supplies: Products like "PARTY BUNTING" and "PACK OF 72 RETROSPOT CAKE CASES" indicate popularity for festive occasions and celebrations.
+- Everyday Essentials: Items like "LUNCH BAG RED RETROSPOT" and "LUNCH BAG BLACK SKULL" highlight the need for practical, everyday products.
+- Retro Trend: The presence of "RETROSPOT" in multiple products suggests a current trend or preference for retro-inspired designs.
+- Postage: The inclusion of "POSTAGE" as a top-purchased item might indicate a high volume of online orders or a significant portion of the business being rall business performance.
