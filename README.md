@@ -89,4 +89,9 @@ Furthermore, this project is divided into three parts:
 
 ![image](https://github.com/user-attachments/assets/6dbecf5c-17d7-417c-abfb-c5873a57de45)
 
+**Specific Insights**
 
+- The monthly trend reveals that the number of people using the platform is showing an increasing trend. Further, the rate of increase stayed flat till August 2011 and rapidly increasing from September 2011.
+- Seasonality: The chart suggests some seasonality in transactions, with potential peaks and troughs at certain times of the year.
+- Growth Period: The period from 2010-12 to 2011-11 experienced steady growth in transactions, indicating a positive trend in business activity.
+- Sharp Decline: The sudden drop in transactions in 2011-12 is a significant outlier and may warrant further investigation to understand the underlying causes.
