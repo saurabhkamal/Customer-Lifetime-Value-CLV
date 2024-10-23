@@ -56,7 +56,7 @@ Furthermore, this project is divided into three parts:
 
 ![image](https://github.com/user-attachments/assets/c7e5c1bf-6e67-421a-976c-ae08889d2a7f)
 
-Specific Insights:
+**Specific Insights:**
 
 - Paper Crafts: The top-selling product, "PAPER CRAFT, LITTLE BIRDIE," suggests a strong demand for creative and DIY activities.
 - Home Decor: Products like "WHITE HANGING HEART T-LIGHT HOLDER" and "REGENCY CAKESTAND 3 TIER" continue to be popular, indicating a consistent demand for decorative items.
@@ -66,9 +66,9 @@ Specific Insights:
 
 ### 3. Top 5 Countries by Total Sales Value
 
-![image](https://github.com/user-attachments/assets/7f02fbd9-603f-44d9-904e-25b1807567f7)
+![image](https://github.com/user-attachments/assets/8b46665d-d6b6-4fda-affa-6052994b5821)
 
-Specific Insights:
+**Specific Insights:**
 
 - Market Dominance: The United Kingdom clearly dominates the market, accounting for 88.1% of total sales.
 - Smaller Markets: The remaining four countries (Netherlands, EIRE(Republic of Ireland), Germany, and France) collectively represent 11.9% of total sales, indicating a more concentrated market.
@@ -79,4 +79,9 @@ Specific Insights:
 ### 4. Which hour of the day, day of the week is when most transactions happen?
 
 ![image](https://github.com/user-attachments/assets/87b3ca0a-5948-4d7d-83bc-545a61947a29)
+
+**Specific Insights:**
+
+- The transaction on the website starts to increase around 7 in the morning and peaks at noon. Then the trend slowly decreases and ends at 6 PM.
+- People tend to purchase more from Monday to Thursday. Surprisingly, there are no transactions that took place on Saturdays for the given period in the data.
 
