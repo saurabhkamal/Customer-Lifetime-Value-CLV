@@ -1,4 +1,4 @@
-# Customer Lifetime Value (CLV) 
+![image](https://github.com/user-attachments/assets/6593cf33-a3ee-4974-95ff-122506b70e3e)# Customer Lifetime Value (CLV) 
 
 ## 1. Introduction:
 The business world has seen a major shift, with companies placing an increasing emphasis on their customers. In today’s competitive market, a customer-focused strategy has become the norm, driven by the abundance of choices available to consumers when choosing products or services.
@@ -84,4 +84,9 @@ Furthermore, this project is divided into three parts:
 
 - The transaction on the website starts to increase around 7 in the morning and peaks at noon. Then the trend slowly decreases and ends at 6 PM.
 - People tend to purchase more from Monday to Thursday. Surprisingly, there are no transactions that took place on Saturdays for the given period in the data.
+
+### 5. The trend of transactions for the given period?
+
+![image](https://github.com/user-attachments/assets/6dbecf5c-17d7-417c-abfb-c5873a57de45)
+
 
