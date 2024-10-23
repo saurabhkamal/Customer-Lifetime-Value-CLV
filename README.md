@@ -95,3 +95,15 @@ Furthermore, this project is divided into three parts:
 - Seasonality: The chart suggests some seasonality in transactions, with potential peaks and troughs at certain times of the year.
 - Growth Period: The period from 2010-12 to 2011-11 experienced steady growth in transactions, indicating a positive trend in business activity.
 - Sharp Decline: The sudden drop in transactions in 2011-12 is a significant outlier and may warrant further investigation to understand the underlying causes.
+
+### 6. Distribution of customers by total revenue and number of orders
+
+![image](https://github.com/user-attachments/assets/387447aa-1ae3-47ef-9755-c0543065a8ee)
+
+**Insights from the Scatter Plot**
+
+- Positive Correlation: You might observe a positive correlation where customers who purchase more (higher total quantity) also tend to generate higher total revenue.
+- Outliers: A few data points, particularly on the higher end of both axes, seem to be outliers, indicating that some customers purchase significantly larger quantities or spend significantly more than the general trend.
+- Customer Segmentation: The scatter plot might reveal different customer segments based on their purchasing behavior. For example, customers who consistently purchase larger quantities and spend more could be identified as high-value customers.
+- Outlier Analysis: Analyzing the outliers could provide insights into factors that influence exceptional spending behavior. These could include specific product categories, promotions, or customer characteristics, such as customer satisfaction.
+- Correlation: The analysis indicates a correlation between total revenue and the number of orders per customer.
