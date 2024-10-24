@@ -208,7 +208,7 @@ Decision Tree Regressor and Random Forest Regressor were the top-performing mode
 * **Marketing:** Focus marketing efforts on the top-selling products and explore opportunities to promote the "RETROSPOT" trend.
 * **Customer Analysis:** Analyze customer demographics and preferences associated with the top-selling products to tailor future offerings.
 
-* * **International Expansion:** If the goal is to increase revenue, consider expanding into the smaller markets to capture a larger share.
+* **International Expansion:** If the goal is to increase revenue, consider expanding into the smaller markets to capture a larger share.
 * **Market Research:** Conduct in-depth market research in the smaller countries to identify specific customer needs and preferences.
 * **Localization:** Adapt products or marketing strategies to cater to local cultural preferences and regulations.
 * **Partnerships:** Explore partnerships with local distributors or retailers to enhance market presence.
