@@ -139,3 +139,69 @@ Furthermore, this project is divided into three parts:
 - Peak Days: Determine the days of the week with the highest sales, providing insights into when customers are most likely to make purchases.
 - Seasonal Trends: Analyze the seasonal patterns to understand how external factors like holidays, weather, or events might influence sales.
 - Day-to-Day Fluctuations: Examine the variations in sales across different days of the week to identify potential trends or anomalies.
+
+## 4. Methodologies that are used to calculate and predict Customer Lifetime Value (CLV)
+
+#### 1). Aggregate Model:
+
+The simplest and oldest method for calculating CLV is the Aggregate or Average method. This approach assumes that all customers have a constant average spend and churn rate. It doesn't distinguish between individual customers, producing a single CLV value at an overall level. However, this can result in unrealistic estimates, especially if some customers make high-value or high-volume transactions, which can skew the average CLV.
+
+The Customer Lifetime Value (CLV) for each customer is: $471044.11
+
+Our initial model calculated a CLV of $471K per customer, which is unrealistic. This result is heavily skewed due to a few customers with extremely high sales, inflating the overall figure. Additionally, it's important to note that not all customers behave the same way.
+
+#### 2). Cohort Model
+
+Rather than treating all customers as a single group, we can divide them into multiple groups and calculate CLV for each one. This approach addresses the key limitation of the simple Aggregate model, which assumes all customers are the same. This method is known as the Cohort model.
+
+The key assumption here is that customers within the same cohort have similar spending habits or overall behavior.
+A common approach to grouping customers into cohorts is by their start date, usually on a monthly basis. The ideal grouping method depends on factors like the customer acquisition rate, business seasonality, and available customer data.
+In this case, I am organizing customers into cohorts based on their start month, resulting in 12 customer cohorts (January to December).
+
+![image](https://github.com/user-attachments/assets/adf26dae-072c-42ae-b9c9-519e2c3b8167)
+
+Upon examining the results, we observe 12 distinct CLV values corresponding to each month from January to December. It is evident that customers acquired in different months have varying CLV values. This variation can be attributed to differences in acquisition campaigns and other factors that may influence customer behavior.
+
+Specifically, the CLV values for January and December are notably high. The data pertains to an online retailer that sells gifts to wholesalers and companies, and both Christmas and New Year occur during these months. This seasonal context explains the elevated CLV for customers who started their transactions in January and December.
+
+#### 3). BG/NBD Model (with Gamma-Gamma extension)
+
+BG/NBD refers to the Beta Geometric/Negative Binomial Distribution.
+This model is one of the most widely used probabilistic methods for predicting Customer Lifetime Value (CLV). The BG/NBD aims to forecast the future transactions of individual customers.
+
+This approach is then integrated with the Gamma-Gamma model, which incorporates the monetary value of customer transactions, ultimately allowing us to calculate the Customer Lifetime Value (CLV).
+The model essentially fits the distribution to historical data, learning the distribution parameters, which are then used to predict future customer transactions.
+
+#### 4). Gamma-Gamma Model
+
+The Gamma-Gamma model is employed in Customer Lifetime Value (CLV) prediction to estimate the monetary value of customer transactions over time. It operates under several important assumptions that simplify the modeling process, though these assumptions must be understood clearly.
+
+- The value of a customer’s transaction fluctuates randomly around their average transaction value.
+- While average transaction values differ between customers, they remain consistent over time for any individual customer.
+- The distribution of average transaction values across customers is independent of their transaction frequency.
+
+#### 5). Regression Models:
+
+After performing feature engineering, scaling, and encoding, several machine-learning regression algorithms were applied. 
+
+1. Linear Regression
+2. Lasso Regression
+3. Ridge Regression
+4. K-Neighbors Regressor
+5. Decision Tree Regressor
+6. Random Forest Regressor
+7. XGBRegressor 
+8. CatBoosting Regressor
+9. AdaBoost Regressor
+
+Out of which top 3 models were selected:
+1. Decision Tree Regressor
+2. Random Forest Regressor
+3. CatBoosting Regressor
+
+Decision Tree Regressor and Random Forest Regressor were the top-performing models.
+
+
+
+
+
