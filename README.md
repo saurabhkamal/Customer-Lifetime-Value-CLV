@@ -40,7 +40,7 @@ Furthermore, this project is divided into three parts:
   
 ## 3. Key Insights:
 
-### 1. Top 10 most purchased products based on 'Description'
+#### 1. Top 10 most purchased products based on 'Description'
 
 ![image](https://github.com/user-attachments/assets/c0f7b039-42d1-4400-a8f8-1033a5b4f53a)
 
@@ -52,7 +52,7 @@ Furthermore, this project is divided into three parts:
 - Retro Trend: The presence of "RETROSPOT" in multiple products suggests a current trend or preference for retro-inspired designs.
 - Postage: The inclusion of "POSTAGE" as a top-purchased item might indicate a high volume of online orders or a significant portion of the business being rall business performance.
 
-### 2. Top 10 Products by Total Sales
+#### 2. Top 10 Products by Total Sales
 
 ![image](https://github.com/user-attachments/assets/c7e5c1bf-6e67-421a-976c-ae08889d2a7f)
 
@@ -64,7 +64,7 @@ Furthermore, this project is divided into three parts:
 - Novelty Items: Products like "RABBIT NIGHT LIGHT" show a demand for unique and whimsical items.
 - Seasonal Trends: While not explicitly shown in the chart, it's possible that some products have seasonal variations in sales (e.g., party bunting ferall business performance.
 
-### 3. Top 5 Countries by Total Sales Value
+#### 3. Top 5 Countries by Total Sales Value
 
 ![image](https://github.com/user-attachments/assets/8b46665d-d6b6-4fda-affa-6052994b5821)
 
@@ -76,7 +76,7 @@ Furthermore, this project is divided into three parts:
 - European Markets: The presence of neighboring European countries (Netherlands, EIRE, Germany, and France) indicates potential for cross-border sales and expansion.
 - Market Penetration: The relatively small market shares of the other countries suggest opportunities for increased market penetration and growth in those regions.
 
-### 4. Which hour of the day, day of the week is when most transactions happen?
+#### 4. Which hour of the day, day of the week is when most transactions happen?
 
 ![image](https://github.com/user-attachments/assets/87b3ca0a-5948-4d7d-83bc-545a61947a29)
 
@@ -85,7 +85,7 @@ Furthermore, this project is divided into three parts:
 - The transaction on the website starts to increase around 7 in the morning and peaks at noon. Then the trend slowly decreases and ends at 6 PM.
 - People tend to purchase more from Monday to Thursday. Surprisingly, there are no transactions that took place on Saturdays for the given period in the data.
 
-### 5. The trend of transactions for the given period?
+#### 5. The trend of transactions for the given period?
 
 ![image](https://github.com/user-attachments/assets/6dbecf5c-17d7-417c-abfb-c5873a57de45)
 
@@ -96,7 +96,7 @@ Furthermore, this project is divided into three parts:
 - Growth Period: The period from 2010-12 to 2011-11 experienced steady growth in transactions, indicating a positive trend in business activity.
 - Sharp Decline: The sudden drop in transactions in 2011-12 is a significant outlier and may warrant further investigation to understand the underlying causes.
 
-### 6. Distribution of customers by total revenue and number of orders
+#### 6. Distribution of customers by total revenue and number of orders
 
 ![image](https://github.com/user-attachments/assets/387447aa-1ae3-47ef-9755-c0543065a8ee)
 
@@ -108,7 +108,7 @@ Furthermore, this project is divided into three parts:
 - Outlier Analysis: Analyzing the outliers could provide insights into factors that influence exceptional spending behavior. These could include specific product categories, promotions, or customer characteristics, such as customer satisfaction.
 - Correlation: The analysis indicates a correlation between total revenue and the number of orders per customer.
 
-### 7. Revenue contribution by different customer segments (e.g., high-value vs. low-value customers)
+#### 7. Revenue contribution by different customer segments (e.g., high-value vs. low-value customers)
 
 ![image](https://github.com/user-attachments/assets/bb015b06-eb8d-48bf-ae37-7f431563f0a7)
 
@@ -127,7 +127,7 @@ Furthermore, this project is divided into three parts:
 - Low-Value Customers: The "Low Value" segment has the lowest average total sales, suggesting a need to focus on increasing their spending.
 - Segmentation Effectiveness: The clear differences in average sales across segments demonstrate the effectiveness of customer segmentation in identifying high-value customers.
 
-### 8. Are there any seasonal patterns in sales or customer activity?
+#### 8. Are there any seasonal patterns in sales or customer activity?
 
 ![image](https://github.com/user-attachments/assets/265027db-048d-480b-a68d-3b4c6ab1ccc2)
 
